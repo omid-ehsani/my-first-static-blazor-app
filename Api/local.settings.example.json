@@ -8,6 +8,7 @@
   "Host": {
     "LocalHttpPort": 7071,
     "CORS": "*",
+    "AllowedOrigins": "http://localhost:5000;https://localhost:46660",
     "CORSCredentials": false
   }
 }
